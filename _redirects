@@ -1,0 +1,3 @@
+# Netlify Redirects
+# Páginas de sede: roteamento correto
+/sede/*   /sede/:splat   200
